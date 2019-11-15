@@ -5,7 +5,7 @@
 1. Practice writing JavaScript classes that inherit from other classes
 
 ## Introduction
-
+ 
 In this lab we're going to create a geometry application that allows us to
 calculate different properties of multiple shapes. We'll be using JavaScript's
 `class` keyword to build objects that inherit from its base object.
